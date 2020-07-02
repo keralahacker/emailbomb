@@ -6,8 +6,8 @@ Use this tool to spam a person's email
 
 Usage : 
 
-1) git clone https://github.com/mohinparamasivam/Email_Bomber.git
-2) cd Email_Bomber
-3) python emailbomber.py
+1) git clone github.com/keralahacker/emailbomb.git
+2) cd emailbomb
+3) python eb.py
 
 
